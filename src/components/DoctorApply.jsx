@@ -84,7 +84,7 @@ const DoctorApply = () => {
     <div className="min-h-screen flex justify-center items-center bg-gray-300">
       <div className="bg-white p-10 rounded-xl shadow-xl max-w-lg w-full transform transition-all duration-700 scale-95 hover:scale-100">
         <h2 className="text-4xl font-extrabold text-center mb-8 text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-pink-600">
-          Doctor Application Form
+          Doctor Application 
         </h2>
 
       
