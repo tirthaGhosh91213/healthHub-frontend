@@ -45,7 +45,7 @@ const Footer =()=>{
                       className="bg-yellow-400 text-gray-900 cursor-pointer px-4 py-2 rounded-md hover:bg-yellow-500 transition"
                       whileHover={{ scale: 1.1 }}
                     >
-                      Subscribe
+                      Subscribe Us
                     </motion.button>
                   </form>
                 </div>
