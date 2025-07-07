@@ -16,7 +16,7 @@ const Footer =()=>{
                 <div>
                   <h4 className="text-lg font-semibold mb-4">About HealthHub</h4>
                   <p className="text-sm">
-                    Your personalized health and meal plan companion. Plan smarter, eat better, and live healthier with HealthHub.
+                    Your personalized Health and Meal plan companion. Plan smarter, eat better, and live healthier with HealthHub.
                   </p>
                 </div>
     
